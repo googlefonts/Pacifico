@@ -160,7 +160,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = AllLetters;
 }
 );
-copyright = "Copyright 2011 The Pacifico Project Authors (contact@sansoxygen.com)";
+copyright = "Copyright 2017 The Pacifico Project Authors (https://github.com/googlefonts/Pacifico)";
 customParameters = (
 {
 name = license;
@@ -327,7 +327,7 @@ value = 1478;
 },
 {
 name = winDescent;
-value = 457;
+value = 650;
 },
 {
 name = hheaLineGap;
@@ -80635,7 +80635,7 @@ unicode = 0497;
 {
 color = 4;
 glyphname = "zedescender-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2017-12-01 15:45:58 +0000";
 layers = (
 {
 background = {
@@ -91095,7 +91095,7 @@ rightKerningGroup = c_fina;
 {
 color = 6;
 glyphname = "fita-cy.fina";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2017-12-01 15:31:56 +0000";
 layers = (
 {
 background = {
@@ -120826,6 +120826,12 @@ width = 600;
 );
 instances = (
 {
+customParameters = (
+{
+name = italicAngle;
+value = 0;
+}
+);
 instanceInterpolations = {
 "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3" = 1;
 };
@@ -123158,6 +123164,6 @@ parenright = 10;
 manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
-versionMajor = 2;
-versionMinor = 1;
+versionMajor = 3;
+versionMinor = 0;
 }
