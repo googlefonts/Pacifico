@@ -1,7 +1,8 @@
 {
-.appVersion = "1116";
+.appVersion = "1230";
 DisplayStrings = (
-"Ó"
+"Ó",
+"Ice cream"
 );
 classes = (
 {
@@ -21261,7 +21262,7 @@ unicode = 0062;
 {
 color = 4;
 glyphname = c;
-lastChange = "2017-11-05 16:46:46 +0000";
+lastChange = "2019-08-19 10:14:17 +0000";
 layers = (
 {
 anchors = (
@@ -35742,11 +35743,12 @@ rightKerningGroup = n_fina;
 {
 color = 6;
 glyphname = iacute_j.loclNLD.fina;
-lastChange = "2017-12-01 10:10:07 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = y.fina;
 },
 {
@@ -52485,7 +52487,7 @@ unicode = 040D;
 {
 color = 4;
 glyphname = "Iishorttail-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -52505,13 +52507,16 @@ transform = "{1, 0, 0, 1, 510, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "Ii-cy";
 },
 {
+alignment = -1;
 name = "brevecomb-cy.case";
 transform = "{1, 0, 0, 1, 234, 380}";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.case";
 transform = "{1, 0, 0, 1, 510, 0}";
 }
@@ -58376,7 +58381,7 @@ unicode = 0496;
 {
 color = 3;
 glyphname = "Zedescender-cy";
-lastChange = "2017-12-11 08:10:54 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -58392,9 +58397,11 @@ transform = "{1, 0, 0, 1, 144, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "Ze-cy";
 },
 {
+alignment = -1;
 name = "descendercomb-cy.case";
 transform = "{1, 0, 0, 1, 60, 0}";
 }
@@ -60141,7 +60148,7 @@ unicode = 04AA;
 {
 color = 4;
 glyphname = "Tedescender-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -60157,9 +60164,11 @@ transform = "{1, 0, 0, 1, 67, 0}";
 };
 components = (
 {
+alignment = -1;
 name = T;
 },
 {
+alignment = -1;
 name = "descendercomb-cy.case";
 transform = "{1, 0, 0, 1, 67, 0}";
 }
@@ -61903,7 +61912,7 @@ unicode = 04C7;
 {
 color = 4;
 glyphname = "Entail-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -61919,9 +61928,11 @@ transform = "{1, 0, 0, 1, 492, 0}";
 };
 components = (
 {
+alignment = -1;
 name = H;
 },
 {
+alignment = -1;
 name = "tailcomb-cy.case";
 transform = "{1, 0, 0, 1, 492, 0}";
 }
@@ -62011,7 +62022,7 @@ unicode = 04CB;
 {
 color = 4;
 glyphname = "Emtail-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -62027,9 +62038,11 @@ transform = "{1, 0, 0, 1, 753, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "Em-cy";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.case";
 transform = "{1, 0, 0, 1, 753, 0}";
 }
@@ -62867,7 +62880,7 @@ unicode = 04F4;
 {
 color = 4;
 glyphname = "Gedescender-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -62883,9 +62896,11 @@ transform = "{1, 0, 0, 1, -22, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "Ge-cy";
 },
 {
+alignment = -1;
 name = "descendercomb-cy.case";
 transform = "{1, 0, 0, 1, -22, 0}";
 }
@@ -65327,7 +65342,7 @@ rightKerningGroup = I_ss01;
 {
 color = 6;
 glyphname = "Iishorttail-cy.ss01";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -65343,9 +65358,11 @@ transform = "{1, 0, 0, 1, 310, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "Ii-cy.ss01";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.case.ss01";
 transform = "{1, 0, 0, 1, 310, 0}";
 }
@@ -69612,7 +69629,7 @@ rightKerningGroup = "Zhe-cy.ss01";
 {
 color = 3;
 glyphname = "Zedescender-cy.ss01";
-lastChange = "2017-12-07 09:21:55 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -69628,9 +69645,11 @@ transform = "{1, 0, 0, 1, 144, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "Ze-cy";
 },
 {
+alignment = -1;
 name = "descendercomb-cy.case";
 transform = "{1, 0, 0, 1, 60, 0}";
 }
@@ -70854,7 +70873,7 @@ rightMetricsKey = C.ss01;
 {
 color = 6;
 glyphname = "Tedescender-cy.ss01";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -70871,10 +70890,12 @@ transform = "{1, 0, 0, 1, 85, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "descendercomb-cy.case";
 transform = "{1, 0, 0, 1, 67, 0}";
 },
 {
+alignment = -1;
 name = T.ss01;
 transform = "{1, 0, 0, 1, 85, 0}";
 }
@@ -72615,7 +72636,7 @@ rightKerningGroup = K_ss01;
 {
 color = 6;
 glyphname = "Eltail-cy.ss01";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -72631,9 +72652,11 @@ transform = "{1, 0, 0, 1, 229, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "El-cy.ss01";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.case.ss01";
 transform = "{1, 0, 0, 1, 229, 0}";
 }
@@ -72673,7 +72696,7 @@ rightKerningGroup = "Tse-cy.ss01";
 {
 color = 6;
 glyphname = "Entail-cy.ss01";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -72689,9 +72712,11 @@ transform = "{1, 0, 0, 1, 335, 0}";
 };
 components = (
 {
+alignment = -1;
 name = H.ss01;
 },
 {
+alignment = -1;
 name = "tailcomb-cy.case.ss01";
 transform = "{1, 0, 0, 1, 335, 0}";
 }
@@ -72731,7 +72756,7 @@ rightKerningGroup = "Che-cy";
 {
 color = 6;
 glyphname = "Emtail-cy.ss01";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -72747,9 +72772,11 @@ transform = "{1, 0, 0, 1, 491, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "Em-cy.ss01";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.case.ss01";
 transform = "{1, 0, 0, 1, 491, 0}";
 }
@@ -73527,7 +73554,7 @@ rightKerningGroup = "Che-cy";
 {
 color = 6;
 glyphname = "Gedescender-cy.ss01";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -73543,9 +73570,11 @@ transform = "{1, 0, 0, 1, -22, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "Ge-cy.ss01";
 },
 {
+alignment = -1;
 name = "descendercomb-cy.case";
 transform = "{1, 0, 0, 1, -22, 0}";
 }
@@ -75255,7 +75284,7 @@ unicode = 045D;
 {
 color = 4;
 glyphname = "iishorttail-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -75275,13 +75304,16 @@ transform = "{1, 0, 0, 1, -1, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "ii-cy";
 },
 {
+alignment = -1;
 name = "brevecomb-cy";
 transform = "{1, 0, 0, 1, -7, 0}";
 },
 {
+alignment = -1;
 name = "tailcomb-cy";
 transform = "{1, 0, 0, 1, -1, 0}";
 }
@@ -84399,7 +84431,7 @@ unicode = 04C4;
 {
 color = 4;
 glyphname = "eltail-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -84415,9 +84447,11 @@ transform = "{1, 0, 0, 1, 77, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "el-cy";
 },
 {
+alignment = -1;
 name = "tailcomb-cy";
 transform = "{1, 0, 0, 1, 77, 0}";
 }
@@ -84460,7 +84494,7 @@ unicode = 04C8;
 {
 color = 4;
 glyphname = "entail-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -84476,9 +84510,11 @@ transform = "{1, 0, 0, 1, 12, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "en-cy";
 },
 {
+alignment = -1;
 name = "tailcomb-cy";
 transform = "{1, 0, 0, 1, 12, 0}";
 }
@@ -84538,7 +84574,7 @@ unicode = 04CC;
 {
 color = 4;
 glyphname = "emtail-cy";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -84554,9 +84590,11 @@ transform = "{1, 0, 0, 1, 274, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "em-cy";
 },
 {
+alignment = -1;
 name = "tailcomb-cy";
 transform = "{1, 0, 0, 1, 274, 0}";
 }
@@ -87786,7 +87824,7 @@ rightKerningGroup = n_fina;
 {
 color = 6;
 glyphname = "iishorttail-cy.fina";
-lastChange = "2017-12-01 10:00:21 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -87805,13 +87843,16 @@ name = "tailcomb-cy.fina";
 };
 components = (
 {
+alignment = -1;
 name = u.fina;
 },
 {
+alignment = -1;
 name = "brevecomb-cy";
 transform = "{1, 0, 0, 1, -7, 0}";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.fina";
 }
 );
@@ -96009,7 +96050,7 @@ rightKerningGroup = c_fina;
 {
 color = 6;
 glyphname = "eltail-cy.fina";
-lastChange = "2017-12-01 10:00:22 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -96025,9 +96066,11 @@ transform = "{1, 0, 0, 1, 20, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "el-cy.fina";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.fina";
 transform = "{1, 0, 0, 1, 20, 0}";
 }
@@ -96067,7 +96110,7 @@ rightKerningGroup = n_fina;
 {
 color = 6;
 glyphname = "entail-cy.fina";
-lastChange = "2017-12-01 10:00:22 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -96083,9 +96126,11 @@ transform = "{1, 0, 0, 1, 2, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "en-cy.fina";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.fina";
 transform = "{1, 0, 0, 1, 2, 0}";
 }
@@ -96143,7 +96188,7 @@ rightKerningGroup = c_fina;
 {
 color = 6;
 glyphname = "emtail-cy.fina";
-lastChange = "2017-12-01 10:00:22 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -96159,9 +96204,11 @@ transform = "{1, 0, 0, 1, 225, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "em-cy.fina";
 },
 {
+alignment = -1;
 name = "tailcomb-cy.fina";
 transform = "{1, 0, 0, 1, 225, 0}";
 }
@@ -96778,7 +96825,7 @@ rightKerningGroup = o_fina;
 {
 color = 6;
 glyphname = "edieresis-cy.fina";
-lastChange = "2017-12-01 10:00:22 +0000";
+lastChange = "2019-08-19 10:13:55 +0000";
 layers = (
 {
 background = {
@@ -96794,9 +96841,11 @@ transform = "{1, 0, 0, 1, -23, 0}";
 };
 components = (
 {
+alignment = -1;
 name = "ereversed-cy.fina";
 },
 {
+alignment = -1;
 name = dieresiscomb;
 transform = "{1, 0, 0, 1, -23, 0}";
 }
@@ -121991,7 +122040,6 @@ parenright = 130;
 "@MMK_R_exclam" = 90;
 "@MMK_R_guilsinglright" = 0;
 "@MMK_R_hyphen" = -30;
-"@MMK_R_o" = 160;
 "@MMK_R_period" = 10;
 "@MMK_R_question" = 70;
 "@MMK_R_quoteleft" = 0;
@@ -123949,5 +123997,5 @@ manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 0;
+versionMinor = 1;
 }
